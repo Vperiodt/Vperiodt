@@ -11,7 +11,7 @@
 ---
 
 ▸ **My Go-To Stack**
-- go · typescript · sql · nodejs · kubernetes · docker · prometheus · grafana · thanos · bash · yaml
+- go · c++ · typescript · sql · nodejs · kubernetes · docker · prometheus · grafana · thanos · bash · yaml
 
 ---
 
